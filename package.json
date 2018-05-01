@@ -1,0 +1,26 @@
+{
+  "name": "wzrdry",
+  "version": "0.0.0",
+  "description": "The last DevOps kit you will need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzrdry/wzrdry.git"
+  },
+  "keywords": [
+    "devops",
+    "deployment",
+    "toolkit",
+    "tool",
+    "dns"
+  ],
+  "author": "Tobias Gurtzick <magic@wizardtales.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wzrdry/wzrdry/issues"
+  },
+  "homepage": "https://github.com/wzrdry/wzrdry#readme"
+}
